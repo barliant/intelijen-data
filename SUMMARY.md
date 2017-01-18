@@ -1,3 +1,4 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Pendahuluan](chapter1.md)
+* [Outline](outline.md)

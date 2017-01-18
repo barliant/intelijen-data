@@ -1,3 +1,5 @@
-# My Awesome Book
+# Intelijen Data
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Buku ini memuat materi kuliah Intelijen Data. Isi buku ini masih terus
+dikembangkan.
+
